@@ -1,0 +1,1 @@
+Solutions to all classic problems from SPOJ (Updated regularly).
